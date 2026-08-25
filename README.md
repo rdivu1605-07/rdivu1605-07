@@ -47,8 +47,11 @@ I'm a final-year **B.Tech Artificial Intelligence & Data Science student** with 
 I enjoy working with **Python, Machine Learning, Data Science and AI**, while continuously exploring new technologies and improving my problem-solving skills.
 
 🎓 **CGPA:** 8.6
+
 💼 **AI Intern:** Emglitz Technologies
+
 🏆 **Hackathon:** IIT Ropar GenAI Hackathon
+
 💡 **Patent:** Co-inventor of an AI-based temperature forecasting application
 
 ---
