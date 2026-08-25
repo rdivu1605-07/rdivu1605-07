@@ -1,107 +1,143 @@
-# 👋 Hey, I'm Divakar R
+# `DIVAKAR R` — AI & Data Science
 
-### 🤖 AI & Data Science Student | Python Developer | ML Explorer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Enthusiast;Python+Developer;Future+AI+Engineer" alt="Typing SVG" />
+</p>
 
-> **"Learn → Build → Break → Improve → Repeat."**
-
-I'm a final-year **B.Tech Artificial Intelligence & Data Science** student at **V.S.B College of Engineering Technical Campus**, passionate about turning ideas into practical technology.
-
-I enjoy exploring **Artificial Intelligence, Machine Learning, Data Science, Python, and Web Technologies** and continuously building my skills through projects, internships, hackathons, and experimentation.
-
----
-
-## 🧠 About Me
-
-🎓 B.Tech — Artificial Intelligence & Data Science
-📊 CGPA — **8.6**
-🐍 Python | Java | MySQL
-🤖 Machine Learning & Artificial Intelligence
-🏆 IIT Ropar GenAI Hackathon Participant
-💡 Co-inventor in an Indian Patent Application
-💼 Former Artificial Intelligence Intern
-🚀 Always learning something new
+<p align="center">
+  <a href="https://github.com/rdivu1605-07">
+    <img src="https://img.shields.io/badge/GitHub-rdivu1605--07-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/divakar-r-4893573a0">
+    <img src="https://img.shields.io/badge/LinkedIn-Divakar%20R-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## ⚡ My Tech Stack
+## 👨‍💻 About Me
 
-```text
-Languages
-├── 🐍 Python
-├── ☕ Java
-└── 🗄️ MySQL
+```python
+class Divakar:
 
-AI & Data Science
-├── Machine Learning
-├── Data Analysis
-├── Pandas
-├── Scikit-learn
-└── Matplotlib
+    role = "AI & Data Science Student"
 
-Currently Exploring
-├── Generative AI
-├── Deep Learning
-├── Data Science
-└── AI Applications
+    education = "B.Tech Artificial Intelligence & Data Science"
+
+    skills = [
+        "Python",
+        "Java",
+        "MySQL",
+        "Machine Learning",
+        "Data Science"
+    ]
+
+    interests = [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Machine Learning",
+        "Data Analytics"
+    ]
+
+    mindset = "Learn • Build • Experiment • Improve"
 ```
 
+I'm a final-year **B.Tech Artificial Intelligence & Data Science student** with a strong interest in building practical technology solutions.
+
+I enjoy working with **Python, Machine Learning, Data Science and AI**, while continuously exploring new technologies and improving my problem-solving skills.
+
+🎓 **CGPA:** 8.6
+💼 **AI Intern:** Emglitz Technologies
+🏆 **Hackathon:** IIT Ropar GenAI Hackathon
+💡 **Patent:** Co-inventor of an AI-based temperature forecasting application
+
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
+
+### AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Machine Learning` `Pandas` `Scikit-learn` `Matplotlib`
+
+### Currently Exploring
+
+`Generative AI` • `Deep Learning` • `Data Analytics` • `AI Applications`
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🏥 HEFIN
 
-**Revolutionizing Health & Finance with Decentralized AI on ICP**
+**Health & Finance with Decentralized AI on ICP**
 
-A health-focused chat application designed to provide personalized wellness assistance using decentralized AI concepts.
+A health chat application designed around personalized wellness assistance and decentralized AI concepts.
 
-`AI` `Healthcare` `Decentralized AI` `ICP`
+**Focus**
 
----
+`AI` `Healthcare` `ICP` `Decentralized AI`
+
+</td>
+
+<td width="50%">
 
 ### ❤️ Heart Disease Prediction
 
-A Machine Learning project that predicts the likelihood of heart disease using health-related factors.
+Machine Learning project for predicting the likelihood of heart disease using health-related factors.
 
-**What I worked on:**
+**Tech**
 
-* 🔹 Data preprocessing using Pandas
-* 🔹 Machine Learning model development
-* 🔹 Feature selection using Scikit-learn
-* 🔹 Data visualization using Matplotlib
-* 🔹 Prediction based on factors such as age, cholesterol and blood pressure
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
 
-`Python` `Machine Learning` `Pandas` `Scikit-learn` `Matplotlib`
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-### 🚀 Pathway X Iota Cluster — IIT Ropar GenAI Hackathon
+### 🚀 IIT Ropar — GenAI Hackathon
 
-Participated as part of **Team Galaxy**, representing VSB College in an AI-focused hackathon organized by IIT Ropar.
+**Pathway X Iota Cluster**
 
-> A great experience in teamwork, innovation, problem-solving and exploring advanced AI applications.
+Participated as part of **Team Galaxy**, representing VSB College at an AI-focused hackathon organized by IIT Ropar.
 
 **2025**
 
 ---
 
-## 💡 Patent Application
+### 🧠 Patent Application
 
-### 🧪 Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics
+**Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics**
 
 Co-inventor of a patent application filed with the **Indian Patent Office**.
 
-The work combines **swarm intelligence, LSTM and big data analytics** for temperature forecasting.
+The work focuses on combining **swarm intelligence, LSTM and big data analytics** for temperature forecasting.
 
 **2025**
 
 ---
 
-## 💼 Internship
+# 💼 Internship
 
 ### Artificial Intelligence Intern — Emglitz Technologies
+
+**02/2024 — 03/2024**
 
 During my internship, I worked on:
 
@@ -110,60 +146,123 @@ During my internship, I worked on:
 * Data preprocessing
 * Model training
 * Model evaluation
-* Performance metrics including Accuracy and F1-score
-
-📅 **February 2024 – March 2024**
+* Accuracy and F1-score based performance evaluation
 
 ---
 
-## 📜 Certifications
+# 🎓 Education
 
-* 🌐 Introduction to Internet of Things — NPTEL
-* 🔐 Beginners in Cybersecurity — IBM SkillsBuild
-* ☁️ Cloud Computing — NPTEL / TCS iON
+| Qualification                  | Institution                                   |       Result |
+| ------------------------------ | --------------------------------------------- | -----------: |
+| **B.Tech — AI & Data Science** | V.S.B College of Engineering Technical Campus | **8.6 CGPA** |
+| **Higher Secondary**           | Tirumathi Rukmaniammal Hr. Sec. School        |    **70.1%** |
+| **Secondary School**           | Tirumathi Rukmaniammal Hr. Sec. School        |    **69.8%** |
 
 ---
 
-## 🧩 Soft Skills
+# 📜 Certifications
+
+* 🌐 **Introduction to Internet of Things** — NPTEL
+* 🔐 **Beginners in Cybersecurity** — IBM SkillsBuild
+* ☁️ **Cloud Computing** — NPTEL / TCS iON
+
+---
+
+# 🧠 What I Bring
 
 ```text
-🤝 Teamwork
-👑 Leadership
-⏱️ Time Management
-💡 Creativity
+┌─────────────────────────────────────────────┐
+│                                             │
+│   🤖 AI & Machine Learning                  │
+│   🐍 Python Development                     │
+│   📊 Data Science                           │
+│   🗄️ Database Fundamentals                 │
+│   💡 Problem Solving                        │
+│   🤝 Team Collaboration                     │
+│   🚀 Continuous Learning                    │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📈 My Learning Philosophy
+# 📊 GitHub Activity
 
-```python
-while True:
-    learn()
-    build()
-    experiment()
-    fail()
-    improve()
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdivu1605-07&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdivu1605-07&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdivu1605-07&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Journey
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+[✓] Learn Python fundamentals
+[✓] Explore Machine Learning
+[✓] Complete AI internship
+[✓] Participate in AI Hackathon
+[✓] Work on AI-based projects
+[✓] Explore Generative AI
+[ ] Build production-level AI applications
+[ ] Contribute to Open Source
+[ ] Become an AI / Data Science Professional
 ```
 
-### 🎯 My Goal
+---
 
-> **To become an AI & Data Science professional who builds technology that solves real-world problems.**
+# 💡 My Developer Philosophy
+
+<p align="center">
+
+### `CODE → LEARN → BUILD → FAIL → IMPROVE → REPEAT`
+
+</p>
+
+> Technology changes every day.
+> My goal is to keep learning, keep building, and create solutions that solve real-world problems.
 
 ---
 
-## 🌐 Connect With Me
+# 🤝 Let's Connect
 
-📧 **Email:** [rdivu1605@gmail.com](mailto:rdivu1605@gmail.com)
+<p align="center">
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/divakar-r-4893573a0
+<a href="mailto:[rdivu1605@gmail.com](mailto:rdivu1605@gmail.com)">
+<img src="https://img.shields.io/badge/Email-DIVAKAR%20R-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💻 **GitHub:**
-https://github.com/rdivu1605-07
+<a href="https://www.linkedin.com/in/divakar-r-4893573a0">
+<img src="https://img.shields.io/badge/LinkedIn-Divakar%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rdivu1605-07">
+<img src="https://img.shields.io/badge/GitHub-rdivu1605--07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ **If you find my projects interesting, feel free to explore my repositories!**
+<p align="center">
 
-### 🚀 Keep Learning. Keep Building. Keep Creating.
+### ⭐ Thanks for visiting my profile!
+
+**Building today. Learning tomorrow. Creating the future. 🚀**
+
+</p>
+ 
