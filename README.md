@@ -112,47 +112,6 @@ Machine Learning project for predicting the likelihood of heart disease using he
 
 ---
 
-# 🏆 Achievements
-
-### 🚀 IIT Ropar — GenAI Hackathon
-
-**Pathway X Iota Cluster**
-
-Participated as part of **Team Galaxy**, representing VSB College at an AI-focused hackathon organized by IIT Ropar.
-
-**2025**
-
----
-
-### 🧠 Patent Application
-
-**Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics**
-
-Co-inventor of a patent application filed with the **Indian Patent Office**.
-
-The work focuses on combining **swarm intelligence, LSTM and big data analytics** for temperature forecasting.
-
-**2025**
-
----
-
-# 💼 Internship
-
-### Artificial Intelligence Intern — Emglitz Technologies
-
-**02/2024 — 03/2024**
-
-During my internship, I worked on:
-
-* Machine Learning models using Python
-* Real-world datasets
-* Data preprocessing
-* Model training
-* Model evaluation
-* Accuracy and F1-score based performance evaluation
-
----
-
 # 🎓 Education
 
 | Qualification                  | Institution                                   |       Result |
@@ -160,14 +119,6 @@ During my internship, I worked on:
 | **B.Tech — AI & Data Science** | V.S.B College of Engineering Technical Campus | **8.6 CGPA** |
 | **Higher Secondary**           | Tirumathi Rukmaniammal Hr. Sec. School        |    **70.1%** |
 | **Secondary School**           | Tirumathi Rukmaniammal Hr. Sec. School        |    **69.8%** |
-
----
-
-# 📜 Certifications
-
-* 🌐 **Introduction to Internet of Things** — NPTEL
-* 🔐 **Beginners in Cybersecurity** — IBM SkillsBuild
-* ☁️ **Cloud Computing** — NPTEL / TCS iON
 
 ---
 
