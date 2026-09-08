@@ -116,7 +116,7 @@ Machine Learning project for predicting the likelihood of heart disease using he
 
 | Qualification                  | Institution                                   |       Result |
 | ------------------------------ | --------------------------------------------- | -----------: |
-| **B.Tech — AI & Data Science** | V.S.B College of Engineering Technical Campus | **8.6 CGPA** |
+| **B.Tech — AI & Data Science** | V.S.B College of Engineering Technical Campus | **8.4 CGPA** |
 | **Higher Secondary**           | Tirumathi Rukmaniammal Hr. Sec. School        |    **70.1%** |
 | **Secondary School**           | Tirumathi Rukmaniammal Hr. Sec. School        |    **69.8%** |
 
